@@ -1,3 +1,4 @@
+HOSPITAL MANAGEMENT SYSTEM
 Hospitals are complex institutions that involve the participation of a wide range of people, including doctors, nurses, staff, chemists, and patients. The range of tasks performed within hospitals is equally diverse and may include patient admissions, doctor's investigations, operations, diagnoses, bill payments, room services, medicine issuance, and much more. To effectively manage all of this data and ensure that healthcare providers can perform their jobs efficiently, hospital management systems have been developed.
 
 The hospital management system is a database system that stores information about healthcare and assists healthcare providers in performing their jobs more effectively. This system is designed to manage all aspects of a hospital's operations, from patient care to billing and administrative tasks.
